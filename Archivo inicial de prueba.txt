@@ -1,3 +1,8 @@
 Aprendiendo git...
 
 Este es un primer comentario
+
+
+Estas son varias líneas de escritura para probar
+Las versiones y demostrar que hay cambios en el documento
+Original, sin embargo el archivo inicial se mantiene intacto
